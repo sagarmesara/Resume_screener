@@ -1,0 +1,50 @@
+Environments
+
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+Python / Jupyter
+
+pycache/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+Data Files
+
+(Ignoring CSVs and Numpy arrays since they are generated locally or downloaded)
+
+*.csv
+*.npy
+
+Machine Learning Models & Vectorizers
+
+(Ignoring large binary files and saved models)
+
+*.pkl
+*.h5
+*.model
+resume_reason_generator/
+reason_generator_results/
+
+Streamlit
+
+.streamlit/secrets.toml
+
+OS / Editor Files
+
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+
+Logs
+
+*.log
+mlruns/

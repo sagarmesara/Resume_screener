@@ -1,0 +1,11 @@
+ipykernel
+pandas
+numpy
+scikit-learn
+nltk
+tensorflow
+PyPDF2
+python-docx
+gensim
+mlflow
+bentoml
