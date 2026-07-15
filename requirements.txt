@@ -9,3 +9,4 @@ python-docx
 gensim
 mlflow
 bentoml
+seaborn
