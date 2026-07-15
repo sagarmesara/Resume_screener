@@ -26,8 +26,6 @@ Machine Learning Models & Vectorizers
 
 (Ignoring large binary files and saved models)
 
-*.pkl
-*.h5
 *.model
 resume_reason_generator/
 reason_generator_results/
